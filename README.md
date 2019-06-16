@@ -13,6 +13,6 @@ This repository is made to submit the AI or S.E.A challenge notebook.
 
 I utilised following resources for my implementation:
 
-Kaggle Repo by Mahadir Ahmad [https://www.kaggle.com/mahadir/grab-traffic-demand-forecasting]
-Time series forecasting tutorial [https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-prophet]
-Prophet documentart [https://facebook.github.io/prophet/]
+- Kaggle Repo by Mahadir Ahmad [https://www.kaggle.com/mahadir/grab-traffic-demand-forecasting]
+- Time series forecasting tutorial [https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-prophet]
+- Prophet documentart [https://facebook.github.io/prophet/]
